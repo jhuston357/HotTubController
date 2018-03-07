@@ -1,0 +1,7 @@
+C:\Users\JJH93\source\repos\HTCONN\HTCONN\bin\Debug\HTCONN.exe.config
+C:\Users\JJH93\source\repos\HTCONN\HTCONN\bin\Debug\HTCONN.exe
+C:\Users\JJH93\source\repos\HTCONN\HTCONN\bin\Debug\HTCONN.pdb
+C:\Users\JJH93\source\repos\HTCONN\HTCONN\obj\Debug\HTCONN.csproj.CoreCompileInputs.cache
+C:\Users\JJH93\source\repos\HTCONN\HTCONN\obj\Debug\HTCONN.exe
+C:\Users\JJH93\source\repos\HTCONN\HTCONN\obj\Debug\HTCONN.pdb
+C:\Users\JJH93\source\repos\HTCONN\HTCONN\obj\Debug\HTCONN.csprojResolveAssemblyReference.cache
